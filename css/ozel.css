@@ -24,8 +24,28 @@
     color: #cccccc;
 }
 
-.beyaz-yazi{
+.beyaz-yazi {
     color: white;
 }
 
+.sag-kaydir {
+    overflow: auto;
+    overflow-y: hidden;
+}
 
+.card-block {
+    min-height: 300px;
+}
+
+.full-boyut{
+    width: 100%;
+    height: 100%;
+}
+
+.alt-cizgisiz{
+    text-decoration: none;
+}
+
+.icon-beyaz{
+    color: white;
+}
