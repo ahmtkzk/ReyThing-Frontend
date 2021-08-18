@@ -28,6 +28,11 @@
     color: white;
 }
 
+.footer-size-yazi{
+    font-size: 45px;
+    font-family: logofont;
+}
+
 .sag-kaydir {
     overflow: auto;
     overflow-y: hidden;
