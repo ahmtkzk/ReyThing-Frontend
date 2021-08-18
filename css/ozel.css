@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'logofont';
+    src: url('../fonts/rolleteqaku-regular-webfont.eot');
+    src: url('../fonts/rolleteqaku-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/rolleteqaku-regular-webfont.woff2') format('woff2'),
+    url('../fonts/rolleteqaku-regular-webfont.woff') format('woff'),
+    url('../fonts/rolleteqaku-regular-webfont.ttf') format('truetype'),
+    url('../fonts/rolleteqaku-regular-webfont.svg#rollete_qakuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.navbar {
+    background-color: #00354F;
+}
+
+#myLogo {
+    font-family: logofont;
+    font-size: 40px;
+}
+
+#myLogo:hover {
+    color: #cccccc;
+}
+
+#ilk-kisim{
+    color: white;
+}
+
+
