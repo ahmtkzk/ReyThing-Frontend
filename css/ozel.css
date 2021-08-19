@@ -28,7 +28,7 @@
     color: white;
 }
 
-.footer-size-yazi{
+.footer-size-yazi {
     font-size: 45px;
     font-family: logofont;
 }
@@ -42,15 +42,16 @@
     min-height: 300px;
 }
 
-.full-boyut{
+.full-boyut {
     width: 100%;
     height: 100%;
 }
 
-.alt-cizgisiz{
+.alt-cizgisiz {
     text-decoration: none;
 }
 
-.icon-beyaz{
+.icon-beyaz {
     color: white;
 }
+
