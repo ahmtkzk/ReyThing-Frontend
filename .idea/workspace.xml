@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39b2ee7-4d5a-4310-9cbf-220f17241917" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calisma.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calisma.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
     </list>
@@ -15,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,7 +68,7 @@
       <workItem from="1629441529346" duration="71000" />
       <workItem from="1629447373690" duration="12379000" />
       <workItem from="1629491857065" duration="2435000" />
-      <workItem from="1629539571172" duration="5086000" />
+      <workItem from="1629539571172" duration="7725000" />
     </task>
     <servers />
   </component>
